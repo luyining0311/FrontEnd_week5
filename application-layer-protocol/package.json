@@ -1,0 +1,15 @@
+{
+  "name": "application-layer-protocol",
+  "version": "1.0.1",
+  "description": "实现自己的应用层协议",
+  "main": "protocol.js",
+  "directories": {
+    "test": "test"
+  },
+  "files": ["protocol.js"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
+
+  
